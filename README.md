@@ -1,7 +1,4 @@
-# Fine-tuning LM with Steerable Layer
-
-
-### Controllable Text Generation
+# Controllable Text Generation
 * [Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/pdf/1912.02164.pdf)
   * Guide text generation with one or more simple attribute classifiers
   * A three steps approach: forward, backward with respect to evaluation result from the classifier, forward
