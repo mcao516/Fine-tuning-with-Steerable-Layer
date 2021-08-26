@@ -9,3 +9,4 @@
 * [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 * [GPT Understands, Too](https://arxiv.org/abs/2103.10385)
 * [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
+* [Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning](https://aclanthology.org/2020.emnlp-main.58.pdf)
