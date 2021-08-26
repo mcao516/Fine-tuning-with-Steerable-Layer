@@ -1,4 +1,4 @@
-# Fine-tuning-with-Steerable-Layer
+# Fine-tuning LM with Steerable Layer
 
 
 ### Controllable Text Generation
