@@ -10,3 +10,4 @@
 * [GPT Understands, Too](https://arxiv.org/abs/2103.10385)
 * [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 * [Back to the Future: Unsupervised Backprop-based Decoding for Counterfactual and Abductive Commonsense Reasoning](https://aclanthology.org/2020.emnlp-main.58.pdf)
+* [FUDGE: Controlled Text Generation With Future Discriminators](https://aclanthology.org/2021.naacl-main.276.pdf)
